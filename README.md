@@ -4,7 +4,7 @@
 
 | Проект | Технологии | Ссылка |
 |--------|------------|--------|
-| Professional photographer's portfolio | HTML, CSS, JS, Swiper | [Репозиторий](https://github.com/helloGalina/portfolio-website-gg.git) |
+| Professional photographer's portfolio | HTML, CSS, JS, Swiper, ScrollReveal | [Репозиторий](https://github.com/helloGalina/portfolio-website-gg.git) |
 | FORMA Studio | HTML, CSS, JS, Swiper | [Репозиторий](https://github.com/helloGalina/forma-studio.git) |
 | Paint Store | React, CSS, JS, Axios, React Icons| [Репозиторий](https://github.com/helloGalina/paint-store-react.git) |
 | Furniture Shop Project | React, TypeScript, CSS, Axios, Bootstrap, Bootstrap Icons| [Репозиторий](https://github.com/helloGalina/furniture-shop.git)|
